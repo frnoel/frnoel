@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h3> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h3>
 </div>
 
@@ -16,5 +13,5 @@
 - ⚡ Fun fact: I started programming in college (2018)
 
 ### STATS
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frnoel&layout=compact)](https://github.com/frnoel)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frnoel&layout=compact)]
 ![Francisco's github stats](https://github-readme-stats.vercel.app/api/?username=frnoel&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
