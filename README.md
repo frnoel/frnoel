@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning React and Node.js
 - 🎖 Previously at American Express and Year Up
 - 🤔 I’m looking for help with technical interviews
-- 📫 How to reach me: [Instagram](https://instagram.com/frnoel12/), [Twitter](https://www.twitter.com/frnoel12/) and [LinkedIn](https://www.linkedin.com/francisconoel/) 
+- 📫 How to reach me: [Instagram](https://instagram.com/frnoel12/), [Twitter](https://www.twitter.com/frnoel12/) and [LinkedIn](https://www.linkedin.com/in/francisconoel/) 
 - 😄 Looking for software engineering roles
 - ⚡ Fun fact: I started programming in college (2018)
 
