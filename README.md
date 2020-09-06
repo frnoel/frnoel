@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on finishing and polishing my projects
 - 🌱 I’m specialized in full-stack web development and currently learning React and Node.js
-- 🎓 **Tech Stack**: Python,C++, JavaScript, HTML, CSS, Git
+- 🎓 **Tech Stack**: Python, C++, JavaScript, HTML, CSS, Git
 - 🎖 Previously at American Express and Year Up
 - 🤔 I’m looking for help with technical interviews
 - 📫 How to reach me: [Instagram](https://instagram.com/frnoel12/), [Twitter](https://www.twitter.com/frnoel12/) and [LinkedIn](https://www.linkedin.com/in/francisconoel/) 
