@@ -1,5 +1,4 @@
 <h3> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h3>
-</div>
 
 ### About Me
 - 🔭 I’m currently working on finishing and polishing my projects
