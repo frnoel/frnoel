@@ -2,7 +2,6 @@
 </div>
 
 ### About Me
-
 - 🔭 I’m currently working on finishing and polishing my projects
 - 🌱 I’m specialized in full-stack web development and currently learning React and Node.js
 - 🎓 **Tech Stack**: `Python`, `C++`, `JavaScript`, `HTML`, `CSS`, `Git` and learning `React`.
