@@ -6,7 +6,7 @@
 - 🎓 **Tech Stack**: `Python`, `C++`, `JavaScript`, `HTML`, `CSS`, `Git` and learning `React`.
 - 🎖 Previously at American Express and Year Up
 - 🤔 I’m looking for help with technical interviews
-- 📫 How to reach me: [Instagram](https://instagram.com/frnoel12/), [Twitter](https://www.twitter.com/frnoel12/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
+- 📫 Reach me: [Instagram](https://instagram.com/frnoel12/), [Twitter](https://www.twitter.com/frnoel12/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
 - 😄 Looking for software engineering roles
 - ⚡ Fun fact: I started programming in college (2018)
 
