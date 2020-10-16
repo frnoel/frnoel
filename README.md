@@ -1,10 +1,9 @@
 <h3> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h3>
 
 ### About Me
-- 🔭 I’m currently working on finishing and polishing my projects
-- 🌱 I’m specialized in full-stack web development and currently learning React and Node.js
+- 🌱 I’m specialized in full-stack web development.
 - 🎓 **Tech Stack**: `Python`, `C++`, `JavaScript`, `React`, `HTML`, `CSS`, `Git`.
-- 🎖 Previously at American Express and Year Up
+- 🎖 Previously at `Knobull`, `American Express` and `Year Up`.
 - 🤔 I’m looking for help with technical interviews
 - 📫 Reach me: [Instagram](https://instagram.com/frnoel12/), [Twitter](https://www.twitter.com/frnoel12/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
 - 😄 Looking for software engineering roles
