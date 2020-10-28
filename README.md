@@ -1,7 +1,7 @@
 <h3> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h3>
 
 ### About Me
-- 🌱 I’m specialized in full-stack web development.
+- 🌱 I’m a Computer Science Student interest in full-stack web development.
 - 🎓 **Tech Stack**: `Python`, `C++`, `JavaScript`, `React`, `HTML`, `CSS`, `Git`.
 - 🎖 Previously at `Knobull`, `American Express` and `Year Up`.
 - 🤔 I’m looking for help with technical interviews
