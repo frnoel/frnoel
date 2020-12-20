@@ -2,7 +2,7 @@
 
 ### About Me
 - 🌱 I’m a Computer Science Student interest in full-stack web development.
-- 🎓 **Tech Stack**: `Python`, `C++`, `JavaScript`, `React`, `HTML`, `CSS`, `Git`.
+- 🎓 **Tech Stack**: `Python`, `C++`, `Java`, `JavaScript`, `SQL`, `HTML`, `CSS`.
 - 🎖 Previously at `Knobull`, `American Express` and `Year Up`.
 - 🤔 I’m looking for help with technical interviews
 - 📫 Reach me: [Instagram](https://instagram.com/byfnoel/), [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
