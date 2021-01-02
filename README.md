@@ -5,7 +5,6 @@
 - 🎓 **Tech Stack**: `Python`, `C++`, `Java`, `JavaScript`, `SQL`, `HTML`, `CSS`.
 - 🎖 Previously at `startup`, and `American Express`.
 - 📫 Reach me: [Instagram](https://instagram.com/byfnoel/), [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
-- 😄 Looking for software engineering roles
 
 ### STATS
 ![Francisco's github stats](https://github-readme-stats.vercel.app/api/?username=byfnoel&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
