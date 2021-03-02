@@ -2,7 +2,8 @@
 
 ### About Me
 
-- _Announcement_: I am currently building 3linic. A fiancial saas company.
+- _Announcement_: I am currently building 3linic. A fiancial saas company. Visit it at 3linic.com.
+
 - 🌱 I’m a Computer Science Student interest in full-stack web development.
 - 🎓 **Tech Stack**: `Python` `C++` `JavaScript` `SQL` `HTML` `CSS`.
 - 🎖 Previously at `startup`, and `American Express`.
