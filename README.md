@@ -1,4 +1,4 @@
-<h3> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h3>
+<h2> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h2>
 
 ### About Me
 <h1><bold> Fullstack Software Engineer</bold></h1>
