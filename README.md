@@ -6,7 +6,7 @@
 - _Announcement_: I am currently building 3linic. A financial SaaS company. Visit www.3linic.com.
 
 - 🌱 I’m a Computer Science Student interest in full-stack web development, algorithms, and data structures.
-- 🎓 **Tech Stack**: `Python`, `C++`, `React`, `JavaScript`, `SQL`, `HTML`, `CSS`.
+- 🎓 **Tech Stack**: `Python`, `C++`, `React`, `JavaScript`, `SQL`, `HTML`, `CSS`,`Node`, `Express`.
 
 - 📫 Reach me: [Instagram](https://instagram.com/byfnoel/), [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
 
