@@ -3,7 +3,7 @@
 ### About Me
 <h1><bold> Fullstack Software Engineer</bold></h1>
 
-- _Announcement_: I am currently building 3linic. A financial SaaS company. Visit www.3linic.com.
+- _Announcement_: Building my startup at 3linic. A financial SaaS company. Visit www.3linic.com.
 
 - 🌱 I’m a Computer Science Student interest in full-stack web development, algorithms, and data structures.
 - 🎓 **Tech Stack**: `Python`, `JavaScript`,`React`,  `SQL`, `HTML`, `CSS`,`Node`, `Express`.
