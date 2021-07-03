@@ -1,7 +1,7 @@
 <h2> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h2>
 
 ### About Me
-<h1><bold> Fullstack Software Engineer</bold></h1>
+<h1><bold> Fullstack Software Engineer </bold></h1>
 
 - _Announcement_: Building my startup at 3linic. Visit www.3linic.com.
 
