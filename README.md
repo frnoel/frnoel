@@ -6,7 +6,7 @@
 - _Announcement_: Building my startup at 3linic. Visit www.3linic.com.
 
 - 🌱 I’m a Computer Science Student interest in full-stack web development, algorithms, and data structures.
-- 🎓 **Tech Stack**: `Python`, `JavaScript`,`React`,  `SQL`, `HTML`, `CSS`,`Node`, `Express`.
+- 🎓 **Tech Stack I use**: `JavaScript` , `Python` , `React` , `HTML` , `CSS` , `Node`, `Express`, `MongoDB`.
 
 - 📫 Reach me: [Instagram](https://instagram.com/byfnoel/), [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
 
